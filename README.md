@@ -1,2 +1,2 @@
 # sample-getting-started-config
-# test
+# trigger pr build
